@@ -20,10 +20,10 @@ Install the plugin from npm:
 
 ```sh
 # Using npm
-npm install @tailwindcss/typography
+npm install -D @tailwindcss/typography
 
 # Using Yarn
-yarn add @tailwindcss/typography
+yarn add --dev @tailwindcss/typography
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
